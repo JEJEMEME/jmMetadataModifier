@@ -20,5 +20,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "testmetadata"
-include(":app")
 include(":jmmetadatamodifier")
